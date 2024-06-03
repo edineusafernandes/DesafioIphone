@@ -1,18 +1,13 @@
-## Getting Started
+## Desafio - POO (Trilha Java Básico DIO) 📍
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+📱 Este desafio tem por objetivo a modelagem e a diagramação de um componente Iphone.
 
-## Folder Structure
+📎 Conforme solicitado no enunciado, a diagramação foi reproduzida em UML usando o programa StarUML (03-2024 / versão para desktop). A programação das aplicações foi realizada na Eclipse IDE.
 
-The workspace contains two folders by default, where:
+## Como parte do desafio, segue ilustração UML: 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+![Diagrama UML](C:\Users\edine\OneDrive\Documentos\PROGRAMAÇÃO E TECNOLOGIA\SantanderDio\DesafioIphone\src\image\UMLiPhone.png)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Aprendizados
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+🤓 Esta atividade foi fundamental para consolidar a implementação de pacotes, classes e suas respectivas hierarquias.
